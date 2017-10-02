@@ -1,0 +1,93 @@
+body.c5 
+{
+    background-image: url(ff.jpg);
+    background-size: 100%;
+    }
+    #mySidenav a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+.fon{
+    color:red;
+}
+#mySidenav a:hover {
+    left: 0;
+}
+#Naveen{
+	top: 20px;
+    background-color: #4CAF50;
+}
+#Home {
+    top: 80px;
+    background-color: #2095F3;
+}
+
+#Mychoice {
+    top: 140px;
+    background-color: #f44336;
+}
+
+#contact {
+    top: 200px;
+    background-color: #555;
+}
+
+
+.container {
+    border-radius: 5px;
+    
+    padding: 20px;
+}
+h3.h
+{
+    text-align: center;
+    color:red;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #731818;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: #F4F7F8;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.input[type=submit]:hover {
+    background-color: #45a049;
+}
+#Subject{
+height: 200px;
+}
+
+a:link, a:visited {
+    background-color: #080000;
+    color: #F9EBEB;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: green;
+    color: white;
+}

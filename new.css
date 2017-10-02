@@ -1,0 +1,79 @@
+ body.c5 
+ {
+	 background-image: url( ff.jpg);
+	 background-size: 100%;
+	 }
+	 
+ .c4 
+ {
+	 color:#F70F0F;
+	 border-style:double;
+	 max-width:1050px;
+	 text-align:center;
+	 font-size:30px;
+	 margin-left:250px;
+	 margin-right:250px;
+ }
+ 
+ .c3
+ {   
+    
+	 font-size:25px;
+	 font-family: "Times New Roman",serif;
+	 font-style:italic;
+	 color:#EFF6EF;
+ }
+
+.m{
+	float:none;
+	background-color: none;
+}
+.img-circle{
+	border-radius: 100px;
+	float: right;
+}
+.img{
+	float: right;
+}
+
+.iframe {
+	 
+	float:right;
+}
+#mySidenav a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+#Naveen{
+	top: 20px;
+    background-color: #4CAF50;
+}
+
+#Home {
+    top: 80px;
+    background-color: #2095F3;
+}
+
+#Mychoice {
+    top: 140px;
+    background-color: #f44336;
+}
+
+#contact {
+    top: 200px;
+    background-color: #555;
+}
+.l{
+	color:red;
+}
